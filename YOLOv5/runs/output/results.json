@@ -1,0 +1,54 @@
+{
+  "results": [
+    {
+      "id": 1,
+      "image": "Dominguez_y145.jpg",
+      "detected": "5 litters"
+    },
+    {
+      "id": 2,
+      "image": "Dominguez_y235.jpg",
+      "detected": "1 litters"
+    },
+    {
+      "id": 3,
+      "image": "Dominguez_y277.jpg",
+      "detected": "2 litters"
+    },
+    {
+      "id": 4,
+      "image": "cazarez_y124.jpg",
+      "detected": "2 litters"
+    },
+    {
+      "id": 5,
+      "image": "johnson_y193.jpg",
+      "detected": "1 litters"
+    },
+    {
+      "id": 6,
+      "image": "kiefer_y1.jpg",
+      "detected": "2 litters"
+    },
+    {
+      "id": 7,
+      "image": "kiefer_y130.jpg",
+      "detected": "4 litters"
+    },
+    {
+      "id": 8,
+      "image": "kiefer_y70.jpg",
+      "detected": "3 litters"
+    },
+    {
+      "id": 9,
+      "image": "leal_y81.jpg",
+      "detected": "1 litters"
+    },
+    {
+      "id": 10,
+      "image": "stone_y62.jpg",
+      "detected": "1 litters"
+    }
+  ]
+}
