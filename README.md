@@ -17,6 +17,10 @@
 
 
 ## General Information
+- Our Machine Learning algorithm is able to receive Google Street images, and return the
+  processed results, from a user with a TCP connection through Socket Programming in the
+  Python language.
+  
 - Provide general information about your project here.
 - What problem does it (intend to) solve?
 - What is the purpose of your project?
@@ -38,7 +42,7 @@ List the ready features here:
 
 
 ## Screenshots
-![Example screenshot](./img/screenshot.png)
+![Example screenshot](./Images/Image10.jpg)
 <!-- If you have screenshots you'd like to share, include them here. -->
 
 
