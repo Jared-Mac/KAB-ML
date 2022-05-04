@@ -1,5 +1,9 @@
 # Project: KAABML
-> Liter detection project.
+> Class: Project Management
+> Professor: Dr. Shaun-inn Wuu 
+> Project: Liter Detection Project
+> Spring 2022
+
 > Live demo [_here_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
 
 ## Table of Contents
@@ -17,14 +21,12 @@
 
 
 ## General Information
-- Our Machine Learning algorithm is able to receive Google Street images, and return the
-  processed results, from a user with a TCP connection through Socket Programming in the
-  Python language.
+- Create a machine learning algorithm that is able to receive Google Street images, and return the results. The results are
+  an google streat image with the litter found marked in it. Also, it will show the confidence/accurray in the google street image. Additonally, a json   
+  file that textualize the amount litter found in the pictures.
   
-- Provide general information about your project here.
-- What problem does it (intend to) solve?
-- What is the purpose of your project?
-- Why did you undertake it?
+- The user will connect to the machine lerning algorithm with a TCP connection through Socket Programming develop in Python language.
+  
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
@@ -82,7 +84,8 @@ Give credit here.
 - Many thanks to...
 
 
-## Contact
+## Team
+Noah | Juan | Keith | Jordan F. | Miguel M.
 
 
 
