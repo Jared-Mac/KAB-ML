@@ -1,0 +1,59 @@
+{
+  "results": [
+    {
+      "id": 1,
+      "image": "Image3.jpg",
+      "detected": "5 litters"
+    },
+    {
+      "id": 2,
+      "image": "Image4 - Copy.jpg",
+      "detected": "4 litters"
+    },
+    {
+      "id": 3,
+      "image": "Image4.jpg",
+      "detected": "2 litters"
+    },
+    {
+      "id": 4,
+      "image": "Image6.jpg",
+      "detected": "1 litters"
+    },
+    {
+      "id": 5,
+      "image": "Image7.jpg",
+      "detected": "6 litters"
+    },
+    {
+      "id": 6,
+      "image": "Image8.jpg",
+      "detected": "3 litters"
+    },
+    {
+      "id": 7,
+      "image": "img10.jpg",
+      "detected": "4 litters"
+    },
+    {
+      "id": 8,
+      "image": "img15.jpg",
+      "detected": "2 litters"
+    },
+    {
+      "id": 9,
+      "image": "img6.jpg",
+      "detected": "4 litters"
+    },
+    {
+      "id": 10,
+      "image": "img8.jpg",
+      "detected": "4 litters"
+    },
+    {
+      "id": 11,
+      "image": "img9.jpg",
+      "detected": "4 litters"
+    }
+  ]
+}
