@@ -42,7 +42,8 @@
 
 
 ## Dataset
-![Example screenshot](./Images/Image10.jpg)
+![GitHub Light](./SAMPLES/Keith_GS/Image3.jpg)
+![GitHub Dark](./SAMPLES/Keith_GS_1280_Output/Image3.jpg)
 <!-- If you have screenshots you'd like to share, include them here. -->
 
 
