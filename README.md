@@ -13,8 +13,8 @@
 * [Requirements](#requirements)
 * [Timeline](#timeline)
 * [Dataset](#dataset)
-* [Development](#Development)
-* [Room for Improvement](#room-for-improvement)
+* [Deliverables](#Deliverables)
+* [Development Process](#development-process)
 * [Acknowledgements](#acknowledgements)
 * [Contact](#contact)
 
@@ -46,12 +46,19 @@
 <!-- If you have screenshots you'd like to share, include them here. -->
 
 
-## Development Process
-What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
+## Deliverables
+-	Machine Learning code/algorithm that will be compatible and usable with the Web App team.
+-	Algorithm will produce data that will include:
+  -	Identification of litter in an image.
+  -	The total amount of litter.
+  -	Show the detection accuracy in testing (e.g. 90% sure this is a Plastic bottle-Litter).
+  -	Striving for/Conditional features: 
+-	Categorize the litter (e.g. Plastic bottle, Paper bag).
+
 
 Proceed to describe how to install / setup one's local environment / get started with the project.
 
-## Room for Improvement
+## Development Process
 Include areas you believe need improvement / could be improved. Also add TODOs for future development.
 
 Room for improvement:
