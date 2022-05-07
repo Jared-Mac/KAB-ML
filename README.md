@@ -1,4 +1,5 @@
 # Project: KAABML
+![plot](./Images/logo.png)
 > Class: Project Management
 > Professor: Dr. Shaun-inn Wuu 
 > Project: Liter Detection Project
