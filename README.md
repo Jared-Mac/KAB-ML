@@ -9,7 +9,7 @@
 
 ## Table of Contents
 * [General Info](#general-information)
-* [Technologies Used](#technologies-used)
+* [Requirements](#Requieremets)
 * [Features](#features)
 * [Screenshots](#screenshots)
 * [Setup](#setup)
@@ -31,10 +31,16 @@
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
-## Technologies Used
-- Tech 1 - version 1.0
-- Tech 2 - version 2.0
-- Tech 3 - version 3.0
+## Requirements
+- Open the Deep Learning VM Deployment Page in the GCP Marketplace( We selected the n1-highmem-4 which utilized 4 vCPUs and includes 26 GB memory) 
+- Add a GPU, the NVIDIA Tesla T4 is the least expensive option and will work for our needs. 
+- Verify “Install NVIDIA GPU driver automatically on first startup?” is selected. 
+  (A minimum 150 GB persistent boot disk size should be selected,   however more would be better depending on the dataset being used and how much   
+   information you plan on working on at once)
+
+- git clone https://github.com/SushiTeam2022/KAAB-ML/tree/main/YOLOv5   # clone
+- cd yolov5
+- pip install -r requirements.txt  #install
 
 
 ## Features
