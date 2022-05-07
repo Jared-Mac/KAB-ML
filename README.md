@@ -10,16 +10,13 @@
 
 ## Table of Contents
 * [General Info](#general-information)
-* [Requirements](#Requirements)
-* [Features](#features)
-* [Screenshots](#screenshots)
-* [Setup](#setup)
-* [Usage](#usage)
+* [Requirements](#requirements)
+* [Timeline](#timeline)
+* [Dataset](#dataset)
+* [Development](#Development)
 * [Room for Improvement](#room-for-improvement)
 * [Acknowledgements](#acknowledgements)
 * [Contact](#contact)
-<!-- * [License](#license) -->
-
 
 ## General Information
 - Create a machine learning algorithm that is able to receive Google Street images, and return the results. The results are
@@ -27,9 +24,6 @@
   file that textualize the amount litter found in the pictures.
   
 - The user will connect to the machine lerning algorithm with a TCP connection through Socket Programming develop in Python language.
-  
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
 
 ## Requirements
 - Open the Deep Learning VM Deployment Page in the GCP Marketplace( We selected the n1-highmem-4 which utilized 4 vCPUs and includes 26 GB memory) 
@@ -40,32 +34,24 @@
 
 - git clone https://github.com/SushiTeam2022/KAAB-ML/tree/main/YOLOv5   # clone
 - cd yolov5
-- pip install -r requirements.txt  #install
+- pip install -r requirements.txt 
 
-
-## Features
+## Timeline
 List the ready features here:
 - Awesome feature 1
 - Awesome feature 2
 - Awesome feature 3
 
 
-## Screenshots
+## Dataset
 ![Example screenshot](./Images/Image10.jpg)
 <!-- If you have screenshots you'd like to share, include them here. -->
 
 
-## Setup
+## Development Process
 What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
 
 Proceed to describe how to install / setup one's local environment / get started with the project.
-
-
-## Usage
-How does one go about using it?
-Provide various use cases and code examples here.
-
-`write-your-code-here`
 
 ## Room for Improvement
 Include areas you believe need improvement / could be improved. Also add TODOs for future development.
@@ -88,11 +74,3 @@ Give credit here.
 
 ## Team
 Noah | Juan | Keith | Jordan F. | Miguel M.
-
-
-
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project -->
