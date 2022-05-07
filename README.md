@@ -45,7 +45,7 @@
 ![Example screenshot](./Images/Image10.jpg)
 <!-- If you have screenshots you'd like to share, include them here. -->
 
-
+![plot](./Images/68747470733a2f2f692e696d6775722e636f6d2f65415965524a722e676966.gif)
 ## Deliverables
 -	Machine Learning code/algorithm that will be compatible and usable with the Web App team.
 -	Algorithm will produce data that will include:
