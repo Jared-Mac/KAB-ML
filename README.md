@@ -37,10 +37,8 @@
 - pip install -r requirements.txt 
 
 ## Timeline
-List the ready features here:
-- Awesome feature 1
-- Awesome feature 2
-- Awesome feature 3
+![plot](./Images/Timeline.PNG)
+
 
 
 ## Dataset
