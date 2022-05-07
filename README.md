@@ -1,10 +1,12 @@
-![plot](./Images/Logo1.PNG)
-# Project: KAABML
+<p align = "center">
+<img align="center" width="400" src="./Images/Logo1.PNG"> 
+</p> 
 
-> Class: Project Management
-> Professor: Dr. Shaun-inn Wuu 
-> Project: Liter Detection Project
-> Spring 2022
+# Project: KAABML 
+  - Class: Project Management
+  - Professor: Dr. Shaun-inn Wuu 
+  - Project: Liter Detection Project
+  - Spring 2022
 
 > Live demo [_here_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
 
@@ -12,10 +14,10 @@
 * [General Info](#general-information)
 * [Requirements](#requirements)
 * [Timeline](#timeline)
+* [System View](#system-view)
 * [Dataset](#dataset)
-* [Deliverables](#Deliverables)
+* [Deliverables](#deliverables)
 * [Development Process](#development-process)
-* [Acknowledgements](#acknowledgements)
 * [Contact](#contact)
 
 ## General Information
@@ -39,14 +41,25 @@
 ## Timeline
 ![plot](./Images/Timeline.PNG)
 <!-- -->
+## System View
+![plot](./Images/network_diagram.PNG)
 
 
 ## Dataset
-![GitHub Light](./SAMPLES/Keith_GS/Image3.jpg)
-![GitHub Dark](./SAMPLES/Keith_GS_1280_Output/Image3.jpg)
-<!-- If you have screenshots you'd like to share, include them here. -->
 
-
+<p align = "center">  
+  <img align="right" width="300" height="300" src="./SAMPLES/Keith_GS/Image3.jpg">
+  <img align="leftt" width="300" height="300" src="./SAMPLES/Keith_GS_1280_Output/Image3.jpg">
+</p>
+<p align = "center">  
+  <img align="right" width="300" height="300" src="./SAMPLES/Keith_GS/Image4.jpg">
+  <img align="leftt" width="300" height="300" src="./SAMPLES/Keith_GS_1280_Output/Image4.jpg">
+ </p> 
+ <p align = "center">  
+  <img align="right" width="300" height="300" src="./SAMPLES/Keith_GS/Image6.jpg">
+  <img align="leftt" width="300" height="300"" src="./SAMPLES/Keith_GS_1280_Output/Image6.jpg">
+</p>
+ 
 ## Deliverables
 -	Machine Learning code/algorithm that will be compatible and usable with the Web App team.
 -	Algorithm will produce data that will include:
@@ -60,7 +73,8 @@
 Proceed to describe how to install / setup one's local environment / get started with the project.
 
 ## Development Process
-Include areas you believe need improvement / could be improved. Also add TODOs for future development.
+Keep America Beautiful is a leading national nonprofit organization that inspires and educates people to take action every day to improve and beautify their community environment. They envision a country in which every community is a clean, green, and beautiful place to live.![image](https://user-images.githubusercontent.com/62217633/167270834-afe5c162-b775-48b9-93e4-75e3309507fc.png)
+
 
 Room for improvement:
 - Improvement to be done 1
