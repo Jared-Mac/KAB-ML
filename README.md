@@ -1,5 +1,6 @@
-# Project: KAABML
 ![plot](./Images/Logo1.PNG)
+# Project: KAABML
+
 > Class: Project Management
 > Professor: Dr. Shaun-inn Wuu 
 > Project: Liter Detection Project
@@ -9,7 +10,7 @@
 
 ## Table of Contents
 * [General Info](#general-information)
-* [Requirements](#Requieremets)
+* [Requirements](#Requirements)
 * [Features](#features)
 * [Screenshots](#screenshots)
 * [Setup](#setup)
