@@ -70,13 +70,5 @@ To do:
 - Feature to be added 1
 - Feature to be added 2
 
-
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- This project was based on [this tutorial](https://www.example.com).
-- Many thanks to...
-
-
 ## Team
 Noah | Juan | Keith | Jordan F. | Miguel M.
