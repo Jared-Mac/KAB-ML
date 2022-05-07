@@ -15,7 +15,6 @@
 * [Screenshots](#screenshots)
 * [Setup](#setup)
 * [Usage](#usage)
-* [Project Status](#project-status)
 * [Room for Improvement](#room-for-improvement)
 * [Acknowledgements](#acknowledgements)
 * [Contact](#contact)
@@ -67,11 +66,6 @@ How does one go about using it?
 Provide various use cases and code examples here.
 
 `write-your-code-here`
-
-
-## Project Status
-Project is: _in progress_ / _complete_ / _no longer being worked on_. If you are no longer working on it, provide reasons why.
-
 
 ## Room for Improvement
 Include areas you believe need improvement / could be improved. Also add TODOs for future development.
