@@ -44,13 +44,13 @@
 - pip install -r requirements.txt 
 
 ## Timeline
-![plot](./Images/Timeline.PNG)
+![plot](./Images/timeline.PNG)
 
 
 
 ## System View
 <p align = "center"> 
-  <img width="500" height="500" src="./Images/Network_diagram.png"> 
+  <img width="500" height="500" src="./Images/networkDiagram.png"> 
 </p>
 
 
