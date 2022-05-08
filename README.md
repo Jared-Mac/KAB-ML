@@ -1,6 +1,6 @@
-<div style="text-align:center">
-  <table align = "right"><tr><td>
-    <img align = height = "300" width="400" src="./Images/Logo1.PNG">
+
+  <table align = "center" ><tr align = "center"height = "200" ><td align = "center" width="1200">
+    <img align = "center" src="./Images/Logo1.PNG">
   </td></tr></table>
 
 
