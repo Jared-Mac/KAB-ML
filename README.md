@@ -44,7 +44,7 @@
 - pip install -r requirements.txt 
 
 ## Timeline
-![plot](./Images/timeline.PNG)
+![plot](./Images/timeline.png)
 
 
 
