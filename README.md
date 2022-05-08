@@ -68,8 +68,8 @@
 ## Deliverables
 -	Machine Learning code/algorithm that will be compatible and usable with the Web App team.
 - Algorithm will produce data that will include:
-  - Identification of litter in an image.
-  -	The total amount of litter.
+  - Detection of litter in an image.
+  -	Track total amount of litter.
   -	Show the detection accuracy in testing (e.g. 90% sure this is a Plastic bottle-Litter). -	Striving for/Conditional features: 
 -	Categorize the litter (e.g. Plastic bottle, Paper bag).
 
