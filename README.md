@@ -65,11 +65,7 @@
 <p align = "center">  
   <img align="right" width="300" height="300" src="./SAMPLES/Keith_GS/Image4.jpg">
   <img align="leftt" width="300" height="300" src="./SAMPLES/Keith_GS_1280_Output/Image4.jpg">
- </p> 
- <p align = "center">  
-  <img align="right" width="300" height="300" src="./SAMPLES/Keith_GS/Image6.jpg">
-  <img align="leftt" width="300" height="300"" src="./SAMPLES/Keith_GS_1280_Output/Image6.jpg">
-</p>
+ 
  
 ## Deliverables
 -	Machine Learning code/algorithm that will be compatible and usable with the Web App team.
