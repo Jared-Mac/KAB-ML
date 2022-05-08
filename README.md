@@ -50,7 +50,7 @@
 
 ## System View
 <p align = "center"> 
-  <img width="500" height="500" src="./Images/networkDiagram.png"> 
+  <img width="800" height="800" src="./Images/networkDiagram.png"> 
 </p>
 
 
