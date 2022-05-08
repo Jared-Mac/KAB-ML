@@ -1,14 +1,17 @@
-<p align = "center">
-<img align="center" width="400" src="./Images/Logo1.PNG"> 
-</p> 
+<div style="text-align:center">
+  <table align = "right"><tr><td>
+    <img align = height = "300" width="400" src="./Images/Logo1.PNG">
+  </td></tr></table>
+
 
 # Project: KAABML 
+
   - Class: Project Management
   - Professor: Dr. Shaun-inn Wuu 
   - Project: Liter Detection Project
   - Spring 2022
-
-> Live demo [_here_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
+</div>
+* Live demo [_here_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -44,8 +47,9 @@
 ![plot](./Images/Timeline.PNG)
 
 
+
 ## System View
-<p align = "center">  
+<p align = "center"> 
   <img width="500" height="500" src="./Images/Network_diagram.png"> 
 </p>
 
