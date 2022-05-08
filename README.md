@@ -49,9 +49,11 @@
 
 
 ## System View
-<p align = "center"> 
+<table align = "center" ><tr align = "center" ><td align = "center" >
+
   <img width="800" height="800" src="./Images/networkDiagram.png"> 
-</p>
+
+ </td></tr></table>
 
 
 ## Dataset
