@@ -1,6 +1,6 @@
 
-  <table align = "center" ><tr align = "center"height = "200" ><td align = "center" width="1200">
-    <img align = "center" src="./Images/Logo1.PNG">
+  <table align = "center" ><tr align = "center" height = "200" ><td align = "center" width="1200">
+    <img align = "center" width="300" src="./Images/Logo1.PNG">
   </td></tr></table>
 
 
@@ -11,7 +11,7 @@
   - Project: Liter Detection Project
   - Spring 2022
 </div>
-* Live demo [_here_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
+<!-- Live demo [_here_](https://www.example.com).--> <!-- If you have the project hosted somewhere, include the link here. -->
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -51,7 +51,7 @@
 ## System View
 <table align = "center" ><tr align = "center" ><td align = "center" >
 
-  <img width="800" height="800" src="./Images/networkDiagram.png"> 
+  <img src="./Images/networkDiagram.png"> 
 
  </td></tr></table>
 
