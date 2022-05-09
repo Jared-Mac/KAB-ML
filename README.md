@@ -19,7 +19,7 @@
 * [Timeline](#timeline)
 * [System View](#system-view)
 * [Main Dependencies](#main-dependencies)
-* [Dataset](#dataset)
+* [Implementation](#implementation)
 * [Deliverables](#deliverables)
 * [Development Process](#development-process)
 * [Team](#team)
@@ -54,7 +54,17 @@ The Sushi Team is grateful for the opportunity to work with Keep America Beautif
 - [Our documentation for RoboFlow](https://github.com/SushiTeam2022/KAB-ML/blob/main/Documentation/RoboFlow%20Guide.pdf).
 
 
-## Dataset
+## Implementation
+The boneworks of our system comes through the utilization of a Google Cloud server, the integration of the the YOLOv5 object detection model - with training and testing to detect litter in Google Street images, and the development of a Python script to formulate the process of our system - pertaining to inputs, outputs, and it’s ability to do frequent operations of processing Google Street images.
+
+In order to train the YOLOv5 model to be able to detect litter in Google Street images, we also had to utilize Roboflow, a general purpose Machine Learning site, in order to create a Google Street image dataset.
+
+### Dataset Example
+<p align = "center">  
+  <img height="500" src="./Images/Roboflow_dataset.png">
+</p>
+
+Once the YOLOv5 model had been trained with the Google Street image dataset, 
 
 <p align = "center">  
   <img align="right" width="300" height="300" src="./SAMPLES/Keith_GS/Image3.jpg">
