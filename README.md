@@ -6,8 +6,9 @@
 
 # ML Project: Keep America Beautiful Litter Processor 
 
-  - Class: CIS 490 - Project Management
+  - Class: CIS 490 - Project Management & Practice
   - Professor: Dr. Shaun-inn Wuu 
+  - Client: Jared Macshane
   - Spring 2022
 </div>
 <!-- Live demo [_here_](https://www.example.com).--> <!-- If you have the project hosted somewhere, include the link here. -->
@@ -23,24 +24,12 @@
 * [Team](#team)
 
 ## General Information
-- Create a machine learning algorithm that is able to receive Google Street images, and return the results. The results are an google street
-  image with the litter found marked in it. Also, it will show the confidence/accurray in the google street image. Additonally, a json   
-  file that textualize the amount litter found in the pictures.
-  
-- The user will connect to the machine lerning algorithm with a TCP connection through Socket Programming develop in Python language.
+Keep America Beautiful is a leading national nonprofit organization that inspires and educates people to take action every day to improve and beautify their community environment. They envision a country in which every community is a clean, green, and beautiful place to live.
+
+The Sushi Team is grateful for the opportunity to work with Keep America Beautiful in developing a Machine Learning algorithm that will detect instances of litter in Google Street images. While the aimed general usage of the algorithm is for Keep America Beautiful's Web App team, the algorithm can be used without them. 
 
 ## Requirements
-- Open the Deep Learning VM Deployment Page in the GCP Marketplace( We selected the n1-highmem-4 which utilized 4 vCPUs and includes 26 GB memory) 
-- Add a GPU, the NVIDIA Tesla T4 is the least expensive option and will work for our needs. 
-- Verify “Install NVIDIA GPU driver automatically on first startup?” is selected. 
-  (A minimum 150 GB persistent boot disk size should be selected,   however more would be better depending on the dataset being used and how much   
-  information you plan on working on at once)
 
-- git clone https://github.com/SushiTeam2022/KAAB-ML/tree/main/YOLOv5
-  
-- cd yolov5
- 
-- pip install -r requirements.txt 
 
 ## Timeline
 ![plot](./Images/timeline.png)
