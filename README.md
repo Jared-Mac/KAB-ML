@@ -4,11 +4,10 @@
   </td></tr></table>
 
 
-# Project: Keep America Beautiful Litter Processor 
+# ML Project: Keep America Beautiful Litter Processor 
 
-  - Class: Project Management
+  - Class: CIS 490 - Project Management
   - Professor: Dr. Shaun-inn Wuu 
-  - Project: Liter Detection Project
   - Spring 2022
 </div>
 <!-- Live demo [_here_](https://www.example.com).--> <!-- If you have the project hosted somewhere, include the link here. -->
