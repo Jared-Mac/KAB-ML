@@ -29,7 +29,7 @@ Keep America Beautiful is a leading national nonprofit organization that inspire
 The Sushi Team is grateful for the opportunity to work with Keep America Beautiful in developing a Machine Learning algorithm that will detect instances of litter in Google Street images. While the aimed general usage of the algorithm is for Keep America Beautiful's Web App team, the algorithm can be used without them. 
 
 ## Requirements
-
+![plot](./Images/Requirements.png)
 
 ## Timeline
 ![plot](./Images/timeline.png)
