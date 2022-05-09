@@ -4,7 +4,7 @@
   </td></tr></table>
 
 
-# Project: KAABML 
+# Project: Keep America Beautiful Litter Processor 
 
   - Class: Project Management
   - Professor: Dr. Shaun-inn Wuu 
