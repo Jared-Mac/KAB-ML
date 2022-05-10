@@ -20,7 +20,7 @@
 * [System View](#system-view)
 * [Main Dependencies](#main-dependencies)
 * [Implementation](#implementation)
-* [Deliverables](#deliverables)
+* [List of Deliverables](#list-of-deliverables)
 * [Development Process](#development-process)
 * [Team](#team)
 
@@ -59,37 +59,42 @@ The boneworks of our system comes through the utilization of a Google Cloud serv
 
 In order to train the YOLOv5 model to be able to detect litter in Google Street images, we also had to utilize Roboflow, a general purpose Machine Learning site, in order to create a Google Street image dataset.
 
-### Dataset Example
+### Dataset Example:
 <p align = "center">  
   <img height="500" src="./Images/Roboflow_dataset.png">
 </p>
 
-Once the YOLOv5 model had been trained with the Google Street image dataset, 
+Once the YOLOv5 model had been trained with the Google Street image dataset, we then moved towards the development of our main Python scripts, to not only load the model to run inferences on, but to also establish a scheduling hook, in which the code will receive & process a set of Google Street images sent from a user. This hook is done through a TCP connection, with Socket Programming in the Python language.
+- TCP Client and Server code can be found [here](https://github.com/SushiTeam2022/KAB-ML/tree/main/Scripts%20%26%20Weights). The Server code also acts as our Detection code, which is demonstrated in our [TCP-Detection Manual](https://github.com/SushiTeam2022/KAB-ML/blob/main/Documentation/TCP-Detection%20Manual.pdf).  
 
+### Inference Example:
 <p align = "center">  
-  <img align="right" width="300" height="300" src="./SAMPLES/Keith_GS/Image3.jpg">
-  <img align="leftt" width="300" height="300" src="./SAMPLES/Keith_GS_1280_Output/Image3.jpg">
+  <img width="400" src="./Images/inference.png">
 </p>
+
+### Results Example:
 <p align = "center">  
-  <img align="right" width="300" height="300" src="./SAMPLES/Keith_GS/Image4.jpg">
-  <img align="leftt" width="300" height="300" src="./SAMPLES/Keith_GS_1280_Output/Image4.jpg">
- 
- 
-## Deliverables
--	Machine Learning code/algorithm that will be compatible and usable with the Web App team.
-- Algorithm will produce data that will include:
-  - Detection of litter in an image.
-  -	Track total amount of litter.
-  -	Show the detection accuracy in testing (e.g. 90% sure this is a Plastic bottle-Litter). -	Striving for/Conditional features: 
--	Categorize the litter (e.g. Plastic bottle, Paper bag).
+  <img width="900" src="./Images/results.png">
+</p> 
+Currently, we have created a system that can receive and process Google Street images from a user, in which a Machine Learning algorithm will be able to detect instances of litter in the received Google Street images. Once the litter instances have been identified, the system will then output the results into an image with bounding-boxes, identifying the litter, and a JSON file, textualizing the results, for the user.
 
-## Development Process
-Keep America Beautiful is a leading national nonprofit organization that inspires and educates people to take action every day to improve and beautify their community environment. They envision a country in which every community is a clean, green, and beautiful place to live.
+## List of Deliverables
+Machine Learning code/algorithm that will be compatible and usable with the Web App team.
+- Algorithm components:
+  - Input of multiples Google Street images.
+  -	Litter detection (YOLOv5).
+  -	Bounding box & JSON output (total amount of litter)
+    - Show accuracy/confidence level in litter prediction 
+  - A scheduling hook by which the Web App team can use this algorithm.
+  - [GitHub repository](https://github.com/SushiTeam2022/KAB-ML).
+    - Python script, Instructional user manual and documentation for development, and a fully functional, modified YOLOv5 model.
 
-The Sushi Team is grateful for the opportunity to work with Keep America Beautiful in developing a machine learning algorithm to detect litter through the colllection of google street images. Also, the Sushi Team partnered up with a web app team which are contributing in developing a web application that send us a google street images as input and the machine learning process it and their application collect them and use them.
-
-The Sushi Team merge two dataset, one develop by fixIT and the other was collected by the web app team. The dataset were annotated, reviewed and submitted for training.  The Sushi Team uses the machines learning Algorithm YoloV5 to detect the amount of litter in the google street images. The YoloV5 uses a customized weights for pre-train and later train the new merged dataset.    
+### Conditional Feature:
+One of the deliverables we triec to aime for was:
+- The categorization of detected litter (e.g. Plastic, Paper, Organics,...).
+However, due to time constraints and interference by a third party, who were supposed to assists us in the development of this feature, we were unable to achieve this deliverable.   
+   
                                                              
 
 ## Team
-Noah | Juan | Keith | Jordan F. | Miguel M.
+Noah M. | Juan G. | Keith G. | Jordan F. | Miguel M.
