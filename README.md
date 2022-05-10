@@ -21,7 +21,6 @@
 * [Main Dependencies](#main-dependencies)
 * [Implementation](#implementation)
 * [List of Deliverables](#list-of-deliverables)
-* [Development Process](#development-process)
 * [Team](#team)
 
 ## General Information
