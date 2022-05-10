@@ -45,12 +45,12 @@ The Sushi Team is grateful for the opportunity to work with Keep America Beautif
 
 ## Main Dependencies
 - [Google Cloud Platform](https://cloud.google.com/).
+  - [Our documentation for Google Cloud](https://github.com/SushiTeam2022/KAB-ML/blob/main/Documentation/Machine%20Requirements.pdf).
 - [YOLOv5 Object Detection Model](https://github.com/ultralytics/yolov5).
+  - [Our documentation for YOLOv5](https://github.com/SushiTeam2022/KAB-ML/blob/main/Documentation/YOLOv5%20Documentation.pdf).
+  - [YOLOv5 - Latest version compatible with our code at this time](https://github.com/SushiTeam2022/KAB-ML/tree/main/YOLOv5).
 - [RoboFlow](https://roboflow.com/).
-
-- [Our documentation for Google Cloud](https://github.com/SushiTeam2022/KAB-ML/blob/main/Documentation/Machine%20Requirements.pdf).
-- [Our documentation for YOLOv5](https://github.com/SushiTeam2022/KAB-ML/blob/main/Documentation/YOLOv5%20Documentation.pdf).
-- [Our documentation for RoboFlow](https://github.com/SushiTeam2022/KAB-ML/blob/main/Documentation/RoboFlow%20Guide.pdf).
+  - [Our documentation for RoboFlow](https://github.com/SushiTeam2022/KAB-ML/blob/main/Documentation/RoboFlow%20Guide.pdf).
 
 
 ## Implementation
