@@ -84,7 +84,8 @@ Machine Learning code/algorithm that will be compatible and usable with the Web 
   -	Litter detection (YOLOv5).
   -	Bounding box & JSON output (total amount of litter)
     - Show accuracy/confidence level in litter prediction 
-  - A scheduling hook by which the Web App team can use this algorithm.
+  - A scheduling hook by which a user, such as the Web App team, can use this algorithm.
+    - Through a TCP connection/Socket programming
   - [GitHub repository](https://github.com/SushiTeam2022/KAB-ML).
     - Python script, Instructional user manual and documentation for development, and a fully functional, modified YOLOv5 model.
 
