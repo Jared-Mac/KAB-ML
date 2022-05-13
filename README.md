@@ -92,7 +92,7 @@ Machine Learning code/algorithm that will be compatible and usable with the Web 
 ### Conditional Feature:
 One of the deliverables we tried to aim for was:
 - The categorization of detected litter (e.g. Plastic, Paper, Organics,...).
-However, due to time constraints and interference by a third party, who were supposed to assists us in the development of this feature, we were unable to achieve this deliverable.   
+However, due to time constraints and interference by a third party, who were supposed to assist us in the development of this feature, we were unable to achieve this deliverable.   
    
                                                              
 
