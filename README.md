@@ -90,7 +90,7 @@ Machine Learning code/algorithm that will be compatible and usable with the Web 
     - Python script, Instructional user manual and documentation for development, and a fully functional, modified YOLOv5 model.
 
 ### Conditional Feature:
-One of the deliverables we triec to aime for was:
+One of the deliverables we tried to aim for was:
 - The categorization of detected litter (e.g. Plastic, Paper, Organics,...).
 However, due to time constraints and interference by a third party, who were supposed to assists us in the development of this feature, we were unable to achieve this deliverable.   
    
